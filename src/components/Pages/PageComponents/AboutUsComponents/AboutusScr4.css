@@ -1,0 +1,13 @@
+.imagetext{
+    background-image:url(../../../../assets/AboutUs/Scr4/number-bg.76fabbb7ee5eef6e.jpg);
+    
+    background-size: cover; 
+    background-position: top center ;
+    
+    background-clip: text ;
+    background-repeat: no-repeat;
+    
+   
+    color: transparent;
+
+}
